@@ -1,5 +1,7 @@
 # Basic Tic-Tac-Toe on React, Node.js and Mantine+Vite
 
+[Check it out on Vercel!](https://tic-tac-toe-react-puce.vercel.app/)
+
 How to run:
 
 `npm run dev`
